@@ -1,0 +1,20 @@
+name: "Adam Gavriel"
+output_dir: "."
+navbar:
+  title: "Adam Gavriel"
+  left:
+    - text: "Hockey Analytics"
+      href: https://drive.google.com/open?id=15XZRT9MvNf8tBJwl3Tw0mkQwejJmgfue
+    - text: "Resume"
+      href: https://drive.google.com/open?id=1h2FK7eXgb-OTYA1aDl0GzjXTJ3EgQR0w
+  right:
+    - icon: fa-envelope
+      href: mailto:adam.gavriel8@gmail.com
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/adam-gavriel-50499624/
+   # - icon: fa-twitter fa-lg
+  #    href: https://twitter.com/nerdhockeyAG
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
