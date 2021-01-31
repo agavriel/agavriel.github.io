@@ -9,6 +9,8 @@ navbar:
       href: https://drive.google.com/open?id=1mRu65Hoe7his7mSnTjK0SFk_EtiGJ7VO
     - text: "NFL DFS Shiny App"
       href: https://adamgavriel.shinyapps.io/nfl_dfs_app/
+    - text: "NHL DFS Shiny App"
+      href: https://adamgavriel.shinyapps.io/nhl_dfs_app/
   right:
     - icon: fa-envelope
       href: mailto:adam.gavriel8@gmail.com
