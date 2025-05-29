@@ -11,6 +11,8 @@ navbar:
       href: https://adamgavriel.shinyapps.io/nfl_dfs_app/
     - text: "NHL Similarity Scores"
       href: https://adamgavriel.shinyapps.io/MILLER_NHL_Similarity_Scores/
+    - text: "Github"
+      href: https://github.com/agavriel/
   right:
     - icon: fa-envelope
       href: mailto:adam.gavriel8@gmail.com
